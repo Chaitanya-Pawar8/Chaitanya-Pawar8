@@ -10,8 +10,7 @@
 ### 🧑‍💻 About Me
 - 🎓 Pursuing **M.Sc. in Cyber Security**  
 - 🔐 Focused on **Ethical Hacking & SOC Operations**  
-- 🌱 Currently learning **Threat Detection, SIEM & Incident Response**  
-- 💻 Skilled in **HTML, CSS, JavaScript & SQL Databases**  
+- 🌱 Currently learning **Threat Detection, SIEM & Incident Response**   
 - 🧠 Mindset: *Think like attacker, defend like expert*  
 - 🎯 Goal: Become a **Cyber Security Analyst / SOC Analyst**  
 
@@ -53,12 +52,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </p>
 
----
 
-### 📂 Projects (🚧 Coming Soon)
-```bash
-> Initializing Projects...
-> Building Cyber Security Labs 🔐
-> Web Security Testing 🌐
-> Database Systems 🗄️
-> Stay Tuned...
