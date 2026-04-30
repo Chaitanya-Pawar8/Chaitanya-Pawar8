@@ -2,18 +2,18 @@
 <h3 align="center">🔐 Cyber Security Enthusiast | SOC Analyst (Learner) | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cyber+Security+Enthusiast;SOC+Analyst+in+Progress;Ethical+Hacking+Learner;Web+Security+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cyber+Security+Enthusiast;SOC+Analyst+in+Progress;Threat+Hunter;Future+Cyber+Warrior;Think+Like+Hacker+%F0%9F%94%A5" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🎓 Pursuing **M.Sc. in Cyber Security**  
-- 🔐 Strong interest in **Ethical Hacking & Security Operations (SOC)**  
-- 🌱 Currently learning **SOC Analysis, Threat Detection & Incident Response**  
-- 💻 Skilled in **Web Development & Databases**  
-- 🎯 Goal: To work as a **Cyber Security Analyst / SOC Analyst**  
-- ⚡ Fun fact: I enjoy analyzing systems like a hacker (ethically 😉)  
+- 🔐 Focused on **Ethical Hacking & SOC Operations**  
+- 🌱 Currently learning **Threat Detection, SIEM & Incident Response**  
+- 💻 Skilled in **HTML, CSS, JavaScript & SQL Databases**  
+- 🧠 Mindset: *Think like attacker, defend like expert*  
+- 🎯 Goal: Become a **Cyber Security Analyst / SOC Analyst**  
 
 ---
 
@@ -21,24 +21,28 @@
 
 #### 💻 Programming & Web
 <p>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js" />
 </p>
 
 #### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 #### 🐧 OS & Security Tools
 <p>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
+  <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark" />
   <img src="https://img.shields.io/badge/Nmap-grey?style=for-the-badge" />
 </p>
+
+---
+
+### 📚 Currently Learning (🚧)
+- 🔍 SOC Monitoring & Log Analysis  
+- 🛡️ SIEM Tools (Splunk Basics)  
+- 🌐 Web Application Security  
+- ⚔️ Penetration Testing  
 
 ---
 
@@ -51,29 +55,10 @@
 
 ---
 
-### 📂 Projects
-- 🔐 **Network Scanning using Nmap**  
-- 🌐 **Basic Web Security Testing Project**  
-- 🗄️ **Database Management using MySQL**  
-- 💻 **Responsive Website using HTML, CSS, JavaScript**  
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-### 🔥 Quote
-> "Security is not a product, it's a process." – Bruce Schneier
+### 📂 Projects (🚧 Coming Soon)
+```bash
+> Initializing Projects...
+> Building Cyber Security Labs 🔐
+> Web Security Testing 🌐
+> Database Systems 🗄️
+> Stay Tuned...
