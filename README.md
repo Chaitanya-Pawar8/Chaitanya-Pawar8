@@ -1,55 +1,68 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Pawar</h1>
-<h3 align="center">🔐 Cyber Security Enthusiast | SOC Analyst (Learner) | India 🇮🇳</h3>
+<h1 align="center">⚡ Hey there, I'm Chaitanya Pawar 🚀</h1>
+<h3 align="center">🛡️ SOC Analyst & Threat Hunter | Cyber Security Researcher | 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cyber+Security+Enthusiast;SOC+Analyst+in+Progress;Threat+Hunter;Future+Cyber+Warrior;Think+Like+Hacker+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=L1%2FL2+SOC+Analyst+in+Progress...;Threat+Hunting+%26+Log+Analysis;Penetration+Testing+%26+DFIR;Digital+Forensic+Investigator;Incident+Response+Architect" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Pursuing **M.Sc. in Cyber Security**  
-- 🔐 Focused on **Ethical Hacking & SOC Operations**  
-- 🌱 Currently learning **Threat Detection, SIEM & Incident Response**   
-- 🧠 Mindset: *Think like attacker, defend like expert*  
-- 🎯 Goal: Become a **Cyber Security Analyst / SOC Analyst**  
+### 🧑‍💻 Operational Briefing
+
+- 🎓 **Education:** Pursuing **M.Sc. in Cyber Security** *(B.Sc. in Cyber & Digital Science)*
+- 🛡️ **Core Domain:** SOC Operations, SIEM (Splunk), Threat Intelligence, Incident Response
+- ⚔️ **Offensive Ops:** Web Application Pentesting & Vulnerability Assessment
+- 🔬 **Forensic Tactics:** Digital Forensics (DFIR), Artifact Analysis & Memory Investigation
+- 🎯 **Mission Objective:** Neutralize adversaries, secure infrastructure, and master SOC Engineering.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Defense & Attack Arsenal
 
-#### 💻 Programming & Web
+#### 💻 System & Command Line
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,html,css,js" />
 </p>
 
-#### 🗄️ Database
+#### 🗄️ Database & Queries
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-#### 🐧 OS & Security Tools
+#### 🛡️ Security, SIEM & DFIR Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=green" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Forensics-4A154B?style=for-the-badge&logo=detective&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-0052CC?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 ---
 
-### 📚 Currently Learning (🚧)
-- 🔍 SOC Monitoring & Log Analysis  
-- 🛡️ SIEM Tools (Splunk Basics)  
-- 🌐 Web Application Security  
-- ⚔️ Penetration Testing  
+### 📚 Active Operations & Learning
+
+- 📡 **SIEM Monitoring & Log Analysis** (Splunk SPL)
+- 🕵️ **Threat Hunting & Packet Analysis** (Wireshark PCAP)
+- 🔍 **Digital Forensics & Incident Response** (DFIR)
+- 🌐 **Web Application Penetration Testing** (OWASP Top 10)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Live System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=cyberpunk&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=cyberpunk&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41" width="49%" />
 </p>
 
+---
 
+### 🌐 Let's Connect & Secure the Network
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/YOUR_THM"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+</p>
