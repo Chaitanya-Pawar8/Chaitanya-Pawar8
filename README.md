@@ -110,30 +110,14 @@ Python / Automation     ████████████████░░�
 
 ## 🧪 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Log Analyzer
-**Stack:** Python · Streamlit
-
-An intelligent log triage tool that parses raw security logs and surfaces anomalies for faster investigation.
-
-[`🔗 View Repo`](https://github.com/Chaitanya-Pawar8/YOUR-REPO)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ SOC Alert Analyzer
-**Stack:** Python · FastAPI · Ollama (LLM)
-
-Alert enrichment engine — IOC extraction, MITRE ATT&CK mapping, risk scoring, and an LLM layer that auto-generates Sigma/YARA/KQL detection rules.
-
-[`🔗 View Repo`](https://github.com/Chaitanya-Pawar8/YOUR-REPO)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Chaitanya-Pawar8/ai-log-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Pawar8&repo=ai-log-analyzer&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41" />
+  </a>
+  <a href="https://github.com/Chaitanya-Pawar8/xss-scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Pawar8&repo=xss-scanner&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41" />
+  </a>
+</p>
 
 ---
 
