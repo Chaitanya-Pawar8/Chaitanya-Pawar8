@@ -6,10 +6,16 @@
 
 </div>
 
+<!-- 🧑‍💻 CHIBI SOC AVATAR — replace src below with your own chibi hacker/SOC-lab image link -->
+<p align="center">
+  <img src="YOUR_CHIBI_IMAGE_URL" width="220" alt="SOC Lab Avatar"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-FRESHER-00FF41?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/LOOKING_FOR-SOC_ANALYST_ROLE-yellow?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/LOCATION-INDIA-blue?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Chaitanya-Pawar8&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -33,9 +39,21 @@ Currently:     Building AI-powered SOC tooling + solving CTFs
 - 🛡️ **Core Domain:** SOC Operations, SIEM (Splunk, Sentinel), Threat Intelligence
 - ⚔️ **Offensive Ops:** Web Application Security, Vulnerability Assessment
 - 🔬 **Forensic Tactics:** Digital Forensics (DFIR)
-- 🦠 **Malware Analysis:** Static & Dynamic Analysis (Any.Run, Ghidra, radare2)
+- 🦠 **Malware Analysis:** Static & Dynamic Analysis
 - 🤖 **R&D:** Building AI-augmented SOC tools (log analyzers, alert triage engines)
 - 🎯 **Mission Objective:** Break into SOC, learn fast, grow into a strong analyst
+
+---
+
+## 📈 Currently Leveling Up
+
+```text
+SIEM & Log Analysis     ████████████████░░░░  80%
+Malware Analysis        ██████████████░░░░░░  70%
+Digital Forensics       ███████████████░░░░░  75%
+Web App Security        █████████████░░░░░░░  65%
+Python / Automation     ████████████████░░░░  80%
+```
 
 ---
 
@@ -116,6 +134,14 @@ Alert enrichment engine — IOC extraction, MITRE ATT&CK mapping, risk scoring, 
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chaitanya-Pawar8&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
+</p>
 
 ---
 
