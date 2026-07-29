@@ -6,16 +6,10 @@
 
 </div>
 
-<!-- 🧑‍💻 CHIBI SOC AVATAR — replace src below with your own chibi hacker/SOC-lab image link -->
-<p align="center">
-  <img src="YOUR_CHIBI_IMAGE_URL" width="220" alt="SOC Lab Avatar"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-FRESHER-00FF41?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/LOOKING_FOR-SOC_ANALYST_ROLE-yellow?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/LOCATION-INDIA-blue?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://komarev.com/ghpvc/?username=Chaitanya-Pawar8&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -39,21 +33,9 @@ Currently:     Building AI-powered SOC tooling + solving CTFs
 - 🛡️ **Core Domain:** SOC Operations, SIEM (Splunk, Sentinel), Threat Intelligence
 - ⚔️ **Offensive Ops:** Web Application Security, Vulnerability Assessment
 - 🔬 **Forensic Tactics:** Digital Forensics (DFIR)
-- 🦠 **Malware Analysis:** Static & Dynamic Analysis
+- 🦠 **Malware Analysis:** Static & Dynamic Analysis (Any.Run, Ghidra, radare2)
 - 🤖 **R&D:** Building AI-augmented SOC tools (log analyzers, alert triage engines)
 - 🎯 **Mission Objective:** Break into SOC, learn fast, grow into a strong analyst
-
----
-
-## 📈 Currently Leveling Up
-
-```text
-SIEM & Log Analysis     ████████████████░░░░  80%
-Malware Analysis        ██████████████░░░░░░  70%
-Digital Forensics       ███████████████░░░░░  75%
-Web App Security        █████████████░░░░░░░  65%
-Python / Automation     ████████████████░░░░  80%
-```
 
 ---
 
@@ -110,22 +92,30 @@ Python / Automation     ████████████████░░�
 
 ## 🧪 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Chaitanya-Pawar8/ai-log-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Pawar8&repo=ai-log-analyzer&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41" />
-  </a>
-  <a href="https://github.com/Chaitanya-Pawar8/xss-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Pawar8&repo=xss-scanner&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🤖 AI Log Analyzer
+**Stack:** Python · Streamlit
 
-## 🏆 Trophy Case
+An intelligent log triage tool that parses raw security logs and surfaces anomalies for faster investigation.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chaitanya-Pawar8&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
-</p>
+[`🔗 View Repo`](https://github.com/Chaitanya-Pawar8/YOUR-REPO)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SOC Alert Analyzer
+**Stack:** Python · FastAPI · Ollama (LLM)
+
+Alert enrichment engine — IOC extraction, MITRE ATT&CK mapping, risk scoring, and an LLM layer that auto-generates Sigma/YARA/KQL detection rules.
+
+[`🔗 View Repo`](https://github.com/Chaitanya-Pawar8/YOUR-REPO)
+
+</td>
+</tr>
+</table>
 
 ---
 
