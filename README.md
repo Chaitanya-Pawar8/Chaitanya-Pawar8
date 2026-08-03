@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=CHAITANYA%20PAWAR&fontSize=50&fontColor=87CEEB&animation=fadeIn&fontAlignY=35&desc=Aspiring%20SOC%20Analyst%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=18&descColor=87CEEB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BFFF&height=200&section=header&text=CHAITANYA%20PAWAR&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20SOC%20Analyst%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%5B%2B%5D+Initializing+Security+Analyst+Profile...;%5B%2B%5D+Learning+Threat+Detection+%26+Log+Analysis;%5B%2B%5D+Reconstructing+Digital+Evidence;%5B%2B%5D+Status%3A+Ready+to+Join+a+SOC+Team" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=%5B%2B%5D+Initializing+Security+Analyst+Profile...;%5B%2B%5D+Learning+Threat+Detection+%26+Log+Analysis;%5B%2B%5D+Reconstructing+Digital+Evidence;%5B%2B%5D+Status%3A+Ready+to+Join+a+SOC+Team" />
 
 </div>
 
@@ -93,4 +93,4 @@ Currently:     Building AI-powered SOC tooling + solving CTFs
   <a href="https://profile.hackthebox.com/profile/019d340f-5a4a-739d-be7f-3796e6996900"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0D1117&height=100&section=footer" width="100%"/>
