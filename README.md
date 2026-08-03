@@ -33,7 +33,7 @@ Currently:     Building AI-powered SOC tooling + solving CTFs
 - 🛡️ **Core Domain:** SOC Operations, SIEM (Splunk, Sentinel), Threat Intelligence
 - ⚔️ **Offensive Ops:** Web Application Security, Vulnerability Assessment
 - 🔬 **Forensic Tactics:** Digital Forensics (DFIR)
-- 🦠 **Malware Analysis:** Static & Dynamic Analysis (Any.Run, Ghidra, radare2)
+- 🦠 **Malware Analysis:** Static & Dynamic Analysis (Any.Run)
 - 🤖 **R&D:** Building AI-augmented SOC tools (log analyzers, alert triage engines)
 - 🎯 **Mission Objective:** Break into SOC, learn fast, grow into a strong analyst
 
@@ -67,8 +67,6 @@ Currently:     Building AI-powered SOC tooling + solving CTFs
 <p>
   <img src="https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/FTK_Imager-1B1B1B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/EnCase-004B87?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Magnet_AXIOM-006494?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 🛡️ Web Application Security
@@ -82,50 +80,17 @@ Currently:     Building AI-powered SOC tooling + solving CTFs
 #### 🦠 Malware Analysis & Reverse Engineering
 <p>
   <img src="https://img.shields.io/badge/Any.Run-FF4500?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-32BC70?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/radare2-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-483FA0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PEStudio-2E2E2E?style=for-the-badge&logoColor=white" />
 </p>
-
----
-
-## 🧪 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Log Analyzer
-**Stack:** Python · Streamlit
-
-An intelligent log triage tool that parses raw security logs and surfaces anomalies for faster investigation.
-
-[`🔗 View Repo`](https://github.com/Chaitanya-Pawar8/YOUR-REPO)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ SOC Alert Analyzer
-**Stack:** Python · FastAPI · Ollama (LLM)
-
-Alert enrichment engine — IOC extraction, MITRE ATT&CK mapping, risk scoring, and an LLM layer that auto-generates Sigma/YARA/KQL detection rules.
-
-[`🔗 View Repo`](https://github.com/Chaitanya-Pawar8/YOUR-REPO)
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 📡 Get In Touch
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/YOUR_THM"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
-  <a href="https://www.hackthebox.com/home/users/profile/YOUR_HTB_ID"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/chaitanya-pawar-4971a236b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chaitanya.r.pawar17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/Chaitanya8"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+  <a href="https://profile.hackthebox.com/profile/019d340f-5a4a-739d-be7f-3796e6996900"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
