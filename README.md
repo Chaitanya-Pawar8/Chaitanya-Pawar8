@@ -16,23 +16,23 @@
 
 ## `[root@SOC-Analyst]# whoami`
 
-```ansi
-[0;32mchaitanya@soc-analyst[0m:[0;34m~[0m$ [0;37mwhoami --verbose[0m
+```bash
+chaitanya@soc-analyst:~$ whoami --verbose
 
-[1;36m┌──────────────────────────────────────────────────────────────────┐[0m
-[1;36m│[0m  [1;37mUSER PROFILE[0m                                                     [1;36m│[0m
-[1;36m├──────────────────────────────────────────────────────────────────┤[0m
-[1;36m│[0m  [0;36mName        [0m: Chaitanya Pawar                                   [1;36m│[0m
-[1;36m│[0m  [0;36mRole        [0m: Fresher | Aspiring SOC Analyst (L1/L2)            [1;36m│[0m
-[1;36m│[0m  [0;36mEducation   [0m: Pursuing M.Sc. in Cyber Security                  [1;36m│[0m
-[1;36m│[0m  [0;36mLocation    [0m: India                                             [1;36m│[0m
-[1;36m│[0m  [0;36mMission     [0m: Detect. Analyze. Respond.                         [1;36m│[0m
-[1;36m│[0m  [0;36mSpecialties [0m: Log Analysis · Threat Intel · Malware Analysis    [1;36m│[0m
-[1;36m│[0m  [0;36mCurrently   [0m: Building AI-powered SOC tooling + solving CTFs    [1;36m│[0m
-[1;36m│[0m  [0;32mStatus      [0m: [1;32m[ONLINE][0m Open to SOC Analyst opportunities        [1;36m│[0m
-[1;36m└──────────────────────────────────────────────────────────────────┘[0m
+┌──────────────────────────────────────────────────────────────────┐
+│  USER PROFILE                                                     │
+├──────────────────────────────────────────────────────────────────┤
+│  Name         : Chaitanya Pawar                                   │
+│  Role         : Fresher | Aspiring SOC Analyst (L1/L2)            │
+│  Education    : Pursuing M.Sc. in Cyber Security                  │
+│  Location     : India                                             │
+│  Mission      : Detect. Analyze. Respond.                         │
+│  Specialties  : Log Analysis · Threat Intel · Malware Analysis    │
+│  Currently    : Building AI-powered SOC tooling + solving CTFs    │
+│  Status       : [ONLINE] Open to SOC Analyst opportunities        │
+└──────────────────────────────────────────────────────────────────┘
 
-[0;32mchaitanya@soc-analyst[0m:[0;34m~[0m$ [5m█[0m
+chaitanya@soc-analyst:~$ ▮
 ```
 
 ---
