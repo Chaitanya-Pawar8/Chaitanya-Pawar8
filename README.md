@@ -16,13 +16,19 @@
 
 ## `[root@SOC-Analyst]# whoami`
 
-```yaml
-Name:          Chaitanya Pawar
-Role:          Fresher | Aspiring SOC Analyst (L1/L2)
-Education:     Pursuing M.Sc. in Cyber Security
-Mission:       Detect. Analyze. Respond.
-Specialties:   Log Analysis · Threat Intelligence · Malware Analysis
-Currently:     Building AI-powered SOC tooling + solving CTFs
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│  USER PROFILE                                                     │
+├──────────────────────────────────────────────────────────────────┤
+│  Name         : Chaitanya Pawar                                   │
+│  Role         : Fresher | Aspiring SOC Analyst (L1/L2)            │
+│  Education    : Pursuing M.Sc. in Cyber Security                  │
+│  Location     : India                                             │
+│  Mission      : Detect. Analyze. Respond.                         │
+│  Specialties  : Log Analysis · Threat Intel · Malware Analysis    │
+│  Currently    : Building AI-powered SOC tooling + solving CTFs    │
+│  Status       : [ONLINE] Open to SOC Analyst opportunities        │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
